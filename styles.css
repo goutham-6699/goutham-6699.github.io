@@ -34,11 +34,11 @@ body * {
   /*Containers*/
   
   .img-container {
-  padding: 40px;
-}
+padding: 0%;
+  }
 
   img {
-  padding: 400px;
+  padding: 20px;
 }
 
   .image-section {
